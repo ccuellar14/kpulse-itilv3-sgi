@@ -1,4 +1,4 @@
-Participantes y Capacitación Requerida
+# Participantes y Capacitación Requerida
 
 ---
 
