@@ -27,4 +27,5 @@
 
 * [Código de Subproceso](subproceso-investigacion-y-diagnostico/codigo-de-subproceso.md)
 * [Controles de Entrada](subproceso-investigacion-y-diagnostico/controles-de-entrada.md)
+* [Diagrama de Sobproceso](subproceso-investigacion-y-diagnostico/diagrama-de-sobproceso.md)
 
