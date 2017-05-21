@@ -29,4 +29,5 @@
 * [Controles de Entrada](subproceso-investigacion-y-diagnostico/controles-de-entrada.md)
 * [Diagrama de Sobproceso](subproceso-investigacion-y-diagnostico/diagrama-de-sobproceso.md)
 * [Tabla de Descripción de Subproceso](subproceso-investigacion-y-diagnostico/tabla-de-descripcion-de-subproceso.md)
+* [Controles de Salida](subproceso-investigacion-y-diagnostico/controles-de-salida.md)
 
