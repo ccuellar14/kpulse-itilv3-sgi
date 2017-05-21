@@ -8,4 +8,5 @@
 ## Proceso de Gestión de Incidentes
 
 * [Código de Proceso](codproceso.md)
+* [Dueño del Proceso](duenodelproceso.md)
 
