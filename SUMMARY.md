@@ -13,4 +13,5 @@
 * [Controles de Entrada](controles-de-entrada.md)
 * [Diagrama de Contexto](diagrama-de-contexto.md)
 * [Diagrama del Proceso](diagrama-del-proceso.md)
+* [Tabla de Descripción del Proceso](tabla-de-descripcion-del-proceso.md)
 
