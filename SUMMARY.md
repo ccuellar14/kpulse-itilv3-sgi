@@ -20,4 +20,5 @@
 * [Código de Subproceso](subproceso-registro-y-clasificacion/codigo-de-subproceso.md)
 * [Controles de Entrada](subproceso-registro-y-clasificacion/controles-de-entrada.md)
 * [Diagrama de Subproceso](subproceso-registro-y-clasificacion/diagrama-de-subproceso.md)
+* [Tabla de Descripción de Subproceso](subproceso-registro-y-clasificacion/tabla-de-descripcion-de-subproceso.md)
 
