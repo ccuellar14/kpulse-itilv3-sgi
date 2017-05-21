@@ -23,3 +23,7 @@
 * [Tabla de Descripción de Subproceso](subproceso-registro-y-clasificacion/tabla-de-descripcion-de-subproceso.md)
 * [Controles de Salida](subproceso-registro-y-clasificacion/controles-de-salida.md)
 
+## Subproceso Investigación y Diagnostico
+
+* [Código de Subproceso](subproceso-investigacion-y-diagnostico/codigo-de-subproceso.md)
+
