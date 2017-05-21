@@ -31,3 +31,11 @@
 * [Tabla de Descripción de Subproceso](subproceso-investigacion-y-diagnostico/tabla-de-descripcion-de-subproceso.md)
 * [Controles de Salida](subproceso-investigacion-y-diagnostico/controles-de-salida.md)
 
+## Subproceso Solución, Recuperación y Documentación
+
+* [Código de Subproceso](subproceso-solucion-recuperacion-y-documentacion/codigo-de-subproceso.md)
+* [Controles de Entrada](subproceso-solucion-recuperacion-y-documentacion/controles-de-entrada.md)
+* [Diagrama de Subproceso](subproceso-solucion-recuperacion-y-documentacion/diagrama-de-subproceso.md)
+* [Tabla de Descripción de Subproceso](subproceso-solucion-recuperacion-y-documentacion/tabla-de-descripcion-de-subproceso.md)
+* [Controles de Salida](subproceso-solucion-recuperacion-y-documentacion/controles-de-salida.md)
+
