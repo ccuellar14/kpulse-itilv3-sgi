@@ -12,4 +12,5 @@
 * [Participantes y Cpacitación Requerida](participantes-y-cpacitacion-requerida.md)
 * [Controles de Entrada](controles-de-entrada.md)
 * [Diagrama de Contexto](diagrama-de-contexto.md)
+* [Diagrama del Proceso](diagrama-del-proceso.md)
 
