@@ -9,4 +9,5 @@
 
 * [Código de Proceso](codproceso.md)
 * [Dueño del Proceso](duenodelproceso.md)
+* [Participantes y Cpacitación Requerida](participantes-y-cpacitacion-requerida.md)
 
