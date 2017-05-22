@@ -4,7 +4,6 @@
 * [Objetivo](objetivo.md)
 * [Alcance](alcance.md)
 * [Políticas](politicas.md)
-* [Herramientas](herramientas.md)
 
 ## Proceso de Gestión de Incidentes
 
@@ -15,6 +14,8 @@
 * [Diagrama de Contexto](diagrama-de-contexto.md)
 * [Diagrama del Proceso](diagrama-del-proceso.md)
 * [Tabla de Descripción del Proceso](tabla-de-descripcion-del-proceso.md)
+* [Herramientas](herramientas.md)
+* [Controles de Salida](controles-de-salida.md)
 
 ## Subproceso Registro y Clasificación
 
