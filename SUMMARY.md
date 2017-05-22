@@ -16,6 +16,7 @@
 * [Tabla de Descripción del Proceso](tabla-de-descripcion-del-proceso.md)
 * [Herramientas](herramientas.md)
 * [Controles de Salida](controles-de-salida.md)
+* [Guias de Adaptación](guias-de-adaptacion.md)
 
 ## Subproceso Registro y Clasificación
 
