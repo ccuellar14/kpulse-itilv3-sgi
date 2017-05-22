@@ -51,4 +51,5 @@
 
 * [Código de Subproceso](subproceso-seguimiento-y-verificacion-del-proceso/codigo-de-subproceso.md)
 * [Controles de Entrada](subproceso-seguimiento-y-verificacion-del-proceso/controles-de-entrada.md)
+* [Diagrama de Subproceso](subproceso-seguimiento-y-verificacion-del-proceso/diagrama-de-subproceso.md)
 
