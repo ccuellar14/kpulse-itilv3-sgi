@@ -36,4 +36,5 @@
 * [Código de Subproceso](subproceso-solucion-recuperacion-y-documentacion/codigo-de-subproceso.md)
 * [Controles de Entrada](subproceso-solucion-recuperacion-y-documentacion/controles-de-entrada.md)
 * [Diagrama de Subproceso](subproceso-solucion-recuperacion-y-documentacion/diagrama-de-subproceso.md)
+* [Tabla de Descripción de Subproceso](subproceso-solucion-recuperacion-y-documentacion/tabla-de-descripcion-de-subproceso.md)
 
