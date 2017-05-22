@@ -39,3 +39,7 @@
 * [Tabla de Descripción de Subproceso](subproceso-solucion-recuperacion-y-documentacion/tabla-de-descripcion-de-subproceso.md)
 * [Controles de Salida](subproceso-solucion-recuperacion-y-documentacion/controles-de-salida.md)
 
+## Subproceso Validación y Cierre
+
+* [Código de Subproceso](subproceso-validacion-y-cierre/codigo-de-subproceso.md)
+
