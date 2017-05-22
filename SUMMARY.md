@@ -4,6 +4,7 @@
 * [Objetivo](objetivo.md)
 * [Alcance](alcance.md)
 * [Políticas](politicas.md)
+* [Herramientas](herramientas.md)
 
 ## Proceso de Gestión de Incidentes
 
