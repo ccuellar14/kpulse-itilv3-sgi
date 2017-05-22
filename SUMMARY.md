@@ -45,4 +45,5 @@
 * [Controles de Entrada](subproceso-validacion-y-cierre/controles-de-entrada.md)
 * [Diagrama de Subproceso](subproceso-validacion-y-cierre/diagrama-de-subproceso.md)
 * [Tabla de Descripción de Subproceso](subproceso-validacion-y-cierre/tabla-de-descripcion-de-subproceso.md)
+* [Controles de Salida](subproceso-validacion-y-cierre/controles-de-salida.md)
 
