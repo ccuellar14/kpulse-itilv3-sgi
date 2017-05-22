@@ -17,6 +17,7 @@
 * [Herramientas](herramientas.md)
 * [Controles de Salida](controles-de-salida.md)
 * [Guias de Adaptación](guias-de-adaptacion.md)
+* [Métricas del Proceso](metricas-del-proceso.md)
 
 ## Subproceso Registro y Clasificación
 
